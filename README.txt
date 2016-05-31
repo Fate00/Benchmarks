@@ -1,6 +1,6 @@
 *****************************************************************************
 *                                                                           * 
-* CS553 Assignment#1 ———— Benchmarks for CPU, GPU, Memory, Disk and Network *
+* Benchmarks for CPU, GPU, Memory, Disk and Network                         *
 *                                                                           *
 *****************************************************************************
 
